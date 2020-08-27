@@ -1,0 +1,9 @@
+{
+    "username":"",
+    "password":"",
+    "sharedSecret":"",
+    "presetgame":648800,
+    "presetcustomgame":"",
+    "playingcustomgame":false,
+    "playgame":false
+}
